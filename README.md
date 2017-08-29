@@ -6,6 +6,7 @@
 
 基于[React](https://facebook.github.io/react/)/[Mobx](http://redux.js.org/)/[React-Router v4](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)/[Webpack v3](https://webpack.js.org/)的脚手架。
 
+> Redux替换Mobx的版本，可以查看这个仓库：[vortex-react](https://github.com/YutHelloWorld/vortex-react)
 ## 目录
 
 ### &sect; [技术栈](#feature)
