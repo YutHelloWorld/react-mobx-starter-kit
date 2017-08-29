@@ -1,6 +1,6 @@
 # React-mobx-starter-kit
 
-[![Build Status](https://travis-ci.org/YutHelloWorld/vortex-react.svg?branch=master)](https://travis-ci.org/YutHelloWorld/vortex-react)
+[![Build Status](https://travis-ci.org/YutHelloWorld/react-mobx-starter-kit.svg?branch=master)](https://travis-ci.org/YutHelloWorld/react-mobx-starter-kit)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/YutHelloWorld/vortex-react/blob/master/LICENSE)
 
