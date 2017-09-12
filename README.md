@@ -31,8 +31,8 @@
 ## <a name="feature">&sect; 技术栈</a>
 
 - React
-- ES6/7/8 + Babel
-- Webpack 3
+- ES6 + Babel
+- Webpack3
 - Mobx
 - React-Router v4
 - Reactstrap + Bootstrap\^4.0.0-alpha.6 (UI)
